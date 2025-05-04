@@ -103,23 +103,3 @@ The `looker studio_Data Source.xlsx` file contains comprehensive sales details:
 - Data Cleaning: Preprocessing for analysis readiness
 
 
-## 🤝 Contributing
-Love to hear your ideas! To contribute:
-
-1. Fork this repo
-2. Create a new branch (`git checkout -b feature/your-idea`)
-3. Make changes and commit (`git commit -m "Add your message"`)
-4. Push to your branch (`git push origin feature/your-idea`)
-5. Open a pull request
-
----
-
-## 📬 Contact
-Questions or want to chat? Email me at your-email@example.com or open an issue here.
-
-Happy exploring! 🚀
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://github.com/yourusername)
